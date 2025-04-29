@@ -8,7 +8,7 @@ The system combines **OpenCV**, **Pytesseract OCR**, **PyTorch** classifier, and
 
 ## Project Structure
 
-- business_card.zip: Example business card images.
+- business_card.zip: Example business card images folder as input.
 - Business_Card_Scanner_Algorithm.ipynb: Jupyter Notebook with all code steps.
 - README.md: Project documentation.
 
